@@ -65,9 +65,9 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-left"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                {/* <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Lightning fast workflow
-                </div>
+                </div> */}
                 <h3 className="mt-0 mb-12">Personal Finance</h3>
                 <p className="m-0">
                   As a teenager, you don’t earn money, but the biggest factor
@@ -98,9 +98,9 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-right"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                {/* <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Lightning fast workflow
-                </div>
+                </div> */}
                 <h3 className="mt-0 mb-12">Selecting hidden gems</h3>
                 <p className="m-0">
                   One of the most important things that would help you become
@@ -132,9 +132,9 @@ const FeaturesSplit = ({
                 className="split-item-content center-content-mobile reveal-from-left"
                 data-reveal-container=".split-item"
               >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                {/* <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Lightning fast workflow
-                </div>
+                </div> */}
                 <h3 className="mt-0 mb-12">Recognize Trading Patterns</h3>
                 <p className="m-0">
                   We would help you understand several candlestick and chart
